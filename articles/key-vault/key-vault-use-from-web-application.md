@@ -123,6 +123,7 @@ If you have an Azure Web App you can now add the actual values for the AppSettin
 ![Application Settings displayed in Azure Portal][1]
 
 ## Authenticate with a Certificate instead of a Client Secret
+[This feature is not supported now.]
 Another way to authenticate an Azure AD application is by using a Client ID and a Certificate instead of a Client ID and Client Secret. Following are the steps to use a Certificate in an Azure Web App:
 
 1. Get or Create a Certificate
